@@ -2,6 +2,7 @@
   "name": "tracker-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://adityat26.github.io/Cloud-Study-Jam-Dashboard/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
